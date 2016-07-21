@@ -1,0 +1,30 @@
+{
+  "name": "Checkout.com",
+  "version": "1",
+  "authors": [
+    "Sam <s.salisu@live.co.uk>"
+  ],
+  "description": "Checkout.com",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "~1.2.26",
+    "jasmine-core": "jasmine#^2.4.1"
+  },
+  "resolutions": {
+    "angular": "1.2.26"
+  }
+}
